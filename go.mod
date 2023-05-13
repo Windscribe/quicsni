@@ -1,4 +1,4 @@
-module github.com/cuonglm/quicsni
+module github.com/Windscribe/quicsni
 
 go 1.19
 
