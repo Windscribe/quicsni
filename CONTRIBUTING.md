@@ -2,4 +2,4 @@
 
 Pull requests are welcome!
 
-Please filling [an issue](https://github.com/cuonglm/quicsni/issues/new/choose) before submitting the PR.
+Please filling [an issue](https://github.com/Windscribe/quicsniissues/new/choose) before submitting the PR.
